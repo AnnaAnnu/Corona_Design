@@ -1,3 +1,2 @@
-# Corona_Design
-
-Using Python
+# Corona_Design in Python
+Using Turtle
